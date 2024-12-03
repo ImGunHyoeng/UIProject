@@ -1046,6 +1046,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MenuButton (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2166843668046364042, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 2233851762841301128, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_text
       value: "\uC751\uC6D0\uAC00"
@@ -1069,6 +1073,14 @@ PrefabInstance:
     - target: {fileID: 4345269518590858355, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5542707201187733378, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5662604614497344843, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6493654061882203708, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_AnchorMax.y
@@ -1420,7 +1432,7 @@ GameObject:
   - component: {fileID: 852540702}
   m_Layer: 5
   m_Name: Canvas
-  m_TagString: Untagged
+  m_TagString: TransitionPanel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1740,6 +1752,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MenuButton (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2166843668046364042, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 2233851762841301128, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_text
       value: "\uCEE4\uBBA4\uB2C8\uD2F0"
@@ -1763,6 +1779,14 @@ PrefabInstance:
     - target: {fileID: 4345269518590858355, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5542707201187733378, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5662604614497344843, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6493654061882203708, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_AnchorMax.y
@@ -2181,6 +2205,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MenuButton (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2166843668046364042, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 2233851762841301128, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_text
       value: "\uB3D9\uC601\uC0C1"
@@ -2204,6 +2232,14 @@ PrefabInstance:
     - target: {fileID: 4345269518590858355, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5542707201187733378, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5662604614497344843, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6493654061882203708, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_AnchorMax.y
@@ -2577,6 +2613,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MenuButton
       objectReference: {fileID: 0}
+    - target: {fileID: 2166843668046364042, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 4345269518590858355, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -2592,6 +2632,14 @@ PrefabInstance:
     - target: {fileID: 4345269518590858355, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5542707201187733378, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5662604614497344843, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6493654061882203708, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_AnchorMax.y
@@ -2850,6 +2898,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MenuButton (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2166843668046364042, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 2233851762841301128, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_text
       value: "\uC124\uC815"
@@ -2873,6 +2925,14 @@ PrefabInstance:
     - target: {fileID: 4345269518590858355, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5542707201187733378, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5662604614497344843, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
+      propertyPath: m_Layer
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6493654061882203708, guid: 6246c7de3b703a54fb0f3624a9568341, type: 3}
       propertyPath: m_AnchorMax.y
