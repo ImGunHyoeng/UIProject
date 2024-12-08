@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/TeamSelect.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/TicketScene.unity
+    path: Assets/Scenes/MainMenu.unity
     guid: 0cdb74efbc06782458c3930937d55ee8
   m_configObjects: {}

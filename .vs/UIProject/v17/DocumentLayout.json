@@ -1,21 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ynoe3\\OneDrive\\Desktop\\UIProject\\",
+  "WorkspaceRootPath": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|c:\\users\\ynoe3\\onedrive\\desktop\\uiproject\\assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.kyub.emojisearch@b240b89d33\\Editor\\Scripts\\TMP_EmojiSpriteAssetImporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.kyub.emojisearch@b240b89d33\\Editor\\Scripts\\TMP_EmojiSpriteAssetImporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Packages\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Packages\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\RoundedCorners.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\RoundedCorners.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\ImageWithRoundedCorners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\ImageWithRoundedCorners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|c:\\users\\ynoe3\\onedrive\\desktop\\uiproject\\assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\playeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\playeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\playeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|c:\\users\\ynoe3\\onedrive\\desktop\\uiproject\\assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|c:\\users\\ynoe3\\onedrive\\desktop\\uiproject\\assets\\movescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\movescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\movescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,54 +47,99 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SceneSwitcher.cs",
-              "DocumentMoniker": "C:\\Users\\ynoe3\\OneDrive\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\SceneSwitcher.cs",
-              "RelativeDocumentMoniker": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\SceneSwitcher.cs",
-              "ToolTip": "C:\\Users\\ynoe3\\OneDrive\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\SceneSwitcher.cs",
-              "RelativeToolTip": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\SceneSwitcher.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAADwvxQAAAAAAAAA",
+              "Title": "TMP_EmojiSpriteAssetImporter.cs",
+              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.kyub.emojisearch@b240b89d33\\Editor\\Scripts\\TMP_EmojiSpriteAssetImporter.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.kyub.emojisearch@b240b89d33\\Editor\\Scripts\\TMP_EmojiSpriteAssetImporter.cs",
+              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.kyub.emojisearch@b240b89d33\\Editor\\Scripts\\TMP_EmojiSpriteAssetImporter.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.kyub.emojisearch@b240b89d33\\Editor\\Scripts\\TMP_EmojiSpriteAssetImporter.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAQwPwAAACxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T01:18:23.916Z",
+              "WhenOpened": "2024-12-08T11:04:18.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PlayEffect.cs",
-              "DocumentMoniker": "C:\\Users\\ynoe3\\OneDrive\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\PlayEffect.cs",
-              "RelativeDocumentMoniker": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\PlayEffect.cs",
-              "ToolTip": "C:\\Users\\ynoe3\\OneDrive\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\PlayEffect.cs",
-              "RelativeToolTip": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\PlayEffect.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T01:18:19.472Z",
-              "EditorCaption": ""
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Packages\\manifest.json",
+              "RelativeDocumentMoniker": "Packages\\manifest.json",
+              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Packages\\manifest.json",
+              "RelativeToolTip": "Packages\\manifest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T10:45:28.261Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TransitionManager.cs",
-              "DocumentMoniker": "C:\\Users\\ynoe3\\OneDrive\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
-              "RelativeDocumentMoniker": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
-              "ToolTip": "C:\\Users\\ynoe3\\OneDrive\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
-              "RelativeToolTip": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
-              "ViewState": "AQIAABcCAAAAAAAAAAAewGgCAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T01:17:51.087Z",
-              "EditorCaption": ""
+              "Title": "RoundedCorners.shader",
+              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\RoundedCorners.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\RoundedCorners.shader",
+              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\RoundedCorners.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\RoundedCorners.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-12-08T10:26:36.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ImageWithRoundedCorners.cs",
+              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\ImageWithRoundedCorners.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\ImageWithRoundedCorners.cs",
+              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\ImageWithRoundedCorners.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\ImageWithRoundedCorners.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:23:46.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SceneSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\SceneSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\SceneSwitcher.cs",
+              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\SceneSwitcher.cs",
+              "RelativeToolTip": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\SceneSwitcher.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:18:23.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayEffect.cs",
+              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\PlayEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\PlayEffect.cs",
+              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\PlayEffect.cs",
+              "RelativeToolTip": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\PlayEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:18:19.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransitionManager.cs",
+              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
+              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
+              "RelativeToolTip": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
+              "ViewState": "AQIAABcCAAAAAAAAAAAewGgCAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:17:51.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MoveScene.cs",
-              "DocumentMoniker": "C:\\Users\\ynoe3\\OneDrive\\Desktop\\UIProject\\Assets\\MoveScene.cs",
+              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\MoveScene.cs",
               "RelativeDocumentMoniker": "Assets\\MoveScene.cs",
-              "ToolTip": "C:\\Users\\ynoe3\\OneDrive\\Desktop\\UIProject\\Assets\\MoveScene.cs",
+              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\MoveScene.cs",
               "RelativeToolTip": "Assets\\MoveScene.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:34:42.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T14:34:42.103Z"
             }
           ]
         }

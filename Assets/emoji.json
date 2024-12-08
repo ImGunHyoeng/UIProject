@@ -1,0 +1,48 @@
+[
+    {
+        "name": "WHITE UP POINTING INDEX",
+        "unified": "261D-FE0F",
+        "non_qualified": "261D",
+        "docomo": null,
+        "au": "E4F6",
+        "softbank": "E00F",
+        "google": "FEB98",
+        "image": "261d.png",
+        "sheet_x": 1,
+        "sheet_y": 2,
+        "short_name": "point_up",
+        "short_names": [
+            "point_up"
+        ],
+        "text": null,
+        "texts": null,
+        "category": "People & Body",
+        "subcategory": "hand-single-finger",
+        "sort_order": 170,
+        "added_in": "1.4",
+        "has_img_apple": true,
+        "has_img_google": true,
+        "has_img_twitter": true,
+        "has_img_facebook": false,
+        "skin_variations": {
+            "1F3FB": {
+                "unified": "261D-1F3FB",
+                "image": "261d-1f3fb.png",
+                "sheet_x": 1,
+                "sheet_y": 3,
+                "added_in": "6.0",
+                "has_img_apple": true,
+                "has_img_google": false,
+                "has_img_twitter": false,
+                "has_img_facebook": false,
+            }
+            ...
+            "1F3FB-1F3FC": {
+                ...
+            }
+        },
+        "obsoletes": "ABCD-1234",
+        "obsoleted_by": "5678-90EF"
+    },
+    ...
+]
