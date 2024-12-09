@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B1B4CF1-A957-DFC5-D42F-9766111995A3}|AdvancedInputFieldEditor.csproj|c:\\users\\gunhyeong\\desktop\\uiproject\\assets\\advancedinputfield\\editor\\scripts\\tmproemojiasseteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B1B4CF1-A957-DFC5-D42F-9766111995A3}|AdvancedInputFieldEditor.csproj|solutionrelative:assets\\advancedinputfield\\editor\\scripts\\tmproemojiasseteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B1B4CF1-A957-DFC5-D42F-9766111995A3}|AdvancedInputFieldEditor.csproj|c:\\users\\gunhyeong\\desktop\\uiproject\\assets\\advancedinputfield\\editor\\scripts\\emojiassetgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B1B4CF1-A957-DFC5-D42F-9766111995A3}|AdvancedInputFieldEditor.csproj|solutionrelative:assets\\advancedinputfield\\editor\\scripts\\emojiassetgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B849F993-A911-559B-715F-36F166DEB0FC}|AdvancedInputField.csproj|c:\\users\\gunhyeong\\desktop\\uiproject\\assets\\advancedinputfield\\scripts\\helper\\keyboardscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B849F993-A911-559B-715F-36F166DEB0FC}|AdvancedInputField.csproj|solutionrelative:assets\\advancedinputfield\\scripts\\helper\\keyboardscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\morm\\onscreenkeyboard\\scripts\\originalscripts\\onscreenkeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\morm\\onscreenkeyboard\\scripts\\originalscripts\\onscreenkeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\navigationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|c:\\users\\gunhyeong\\desktop\\uiproject\\assets\\navigationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\navigationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\AdvancedInputField\\Editor\\Scripts\\TMProEmojiAssetEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AdvancedInputField\\Editor\\Scripts\\TMProEmojiAssetEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\morm\\onscreenkeyboard\\scripts\\originalscripts\\onscreenkeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\morm\\onscreenkeyboard\\scripts\\originalscripts\\onscreenkeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,6 +53,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\ImageWithRoundedCorners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\ImageWithRoundedCorners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\AdvancedInputField\\Editor\\Scripts\\EmojiAssetGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AdvancedInputField\\Editor\\Scripts\\EmojiAssetGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\AdvancedInputField\\Scripts\\Helper\\KeyboardScroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AdvancedInputField\\Scripts\\Helper\\KeyboardScroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,19 +75,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TMProEmojiAssetEditor.cs",
-              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\AdvancedInputField\\Editor\\Scripts\\TMProEmojiAssetEditor.cs",
-              "RelativeDocumentMoniker": "Assets\\AdvancedInputField\\Editor\\Scripts\\TMProEmojiAssetEditor.cs",
-              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\AdvancedInputField\\Editor\\Scripts\\TMProEmojiAssetEditor.cs",
-              "RelativeToolTip": "Assets\\AdvancedInputField\\Editor\\Scripts\\TMProEmojiAssetEditor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Title": "NavigationView.cs",
+              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\NavigationView.cs",
+              "RelativeDocumentMoniker": "Assets\\NavigationView.cs",
+              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\NavigationView.cs",
+              "RelativeToolTip": "Assets\\NavigationView.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwFwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:19:25.73Z",
+              "WhenOpened": "2024-12-09T22:10:17.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TransitionManager.cs",
+              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
+              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
+              "RelativeToolTip": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwv4UAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:20:42.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TMProEmojiAssetEditor.cs",
+              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\AdvancedInputField\\Editor\\Scripts\\TMProEmojiAssetEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\AdvancedInputField\\Editor\\Scripts\\TMProEmojiAssetEditor.cs",
+              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\AdvancedInputField\\Editor\\Scripts\\TMProEmojiAssetEditor.cs",
+              "RelativeToolTip": "Assets\\AdvancedInputField\\Editor\\Scripts\\TMProEmojiAssetEditor.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:19:25.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "EmojiAssetGenerator.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\AdvancedInputField\\Editor\\Scripts\\EmojiAssetGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\AdvancedInputField\\Editor\\Scripts\\EmojiAssetGenerator.cs",
@@ -95,12 +119,11 @@
               "RelativeToolTip": "Assets\\AdvancedInputField\\Editor\\Scripts\\EmojiAssetGenerator.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAlwC8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:19:17.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T17:19:17.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "KeyboardScroller.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\AdvancedInputField\\Scripts\\Helper\\KeyboardScroller.cs",
               "RelativeDocumentMoniker": "Assets\\AdvancedInputField\\Scripts\\Helper\\KeyboardScroller.cs",
@@ -108,8 +131,7 @@
               "RelativeToolTip": "Assets\\AdvancedInputField\\Scripts\\Helper\\KeyboardScroller.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAlwCUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:19:17.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T17:19:17.4Z"
             },
             {
               "$type": "Document",
@@ -121,36 +143,11 @@
               "RelativeToolTip": "Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboard.cs",
               "ViewState": "AgIAAMcAAAAAAAAAAAAcwCQBAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:12:25.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NavigationView.cs",
-              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\NavigationView.cs",
-              "RelativeDocumentMoniker": "Assets\\NavigationView.cs",
-              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\NavigationView.cs",
-              "RelativeToolTip": "Assets\\NavigationView.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:58:16.703Z"
+              "WhenOpened": "2024-12-09T17:12:25.132Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TransitionManager.cs",
-              "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
-              "RelativeDocumentMoniker": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
-              "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
-              "RelativeToolTip": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:20:42.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "CheckActive.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\CheckActive.cs",
               "RelativeDocumentMoniker": "Assets\\CheckActive.cs",
@@ -162,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "TextEllipsis.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\Community\\TextEllipsis.cs",
               "RelativeDocumentMoniker": "Assets\\Community\\TextEllipsis.cs",
@@ -174,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "SceneSwitcher.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\SceneSwitcher.cs",
               "RelativeDocumentMoniker": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\SceneSwitcher.cs",
@@ -186,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "PlayEffect.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\PlayEffect.cs",
               "RelativeDocumentMoniker": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\PlayEffect.cs",
@@ -198,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "MoveScene.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\MoveScene.cs",
               "RelativeDocumentMoniker": "Assets\\MoveScene.cs",
@@ -210,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "TMP_EmojiSpriteAssetImporter.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.kyub.emojisearch@b240b89d33\\Editor\\Scripts\\TMP_EmojiSpriteAssetImporter.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.kyub.emojisearch@b240b89d33\\Editor\\Scripts\\TMP_EmojiSpriteAssetImporter.cs",
@@ -222,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "manifest.json",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Packages\\manifest.json",
               "RelativeDocumentMoniker": "Packages\\manifest.json",
@@ -234,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "RoundedCorners.shader",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\RoundedCorners.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\RoundedCorners.shader",
@@ -246,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "ImageWithRoundedCorners.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\ImageWithRoundedCorners.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.nobi.roundedcorners@33135342e8\\UiRoundedCorners\\ImageWithRoundedCorners.cs",

@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using SceneTransitionFXProFREE;
 
 public class NavigationView : MonoBehaviour
 {
@@ -12,9 +13,11 @@ public class NavigationView : MonoBehaviour
 	[SerializeField]
 	private	Button					buttonPrev;		
 	[SerializeField]
-	private	TextMeshProUGUI			textPrevName;	
-	
-	private	CanvasGroup				canvasGroup;	
+	private	TextMeshProUGUI			textPrevName;
+    [SerializeField]
+    private TransitionManager transitionManager;
+
+    private	CanvasGroup				canvasGroup;	
 	private	Stack<RectTransform>	stackViews;		
 
 	private void Awake()
@@ -23,12 +26,10 @@ public class NavigationView : MonoBehaviour
 		stackViews	= new Stack<RectTransform>();
 		
 		buttonPrev.onClick.AddListener(Pop);
-		buttonPrev.gameObject.SetActive(false);
-		
 		SetNavigationBar(currentView.name);
 	}
-	
-	public void Push(RectTransform newView)
+
+    public void Push(RectTransform newView)
 	{
 		canvasGroup.blocksRaycasts = false;
 	
@@ -61,7 +62,7 @@ public class NavigationView : MonoBehaviour
 		
 		canvasGroup.blocksRaycasts = true;
 		
-		if ( stackViews.Count >= 1 )
+		if ( stackViews.Count > 1 )
 		{
 			SetNavigationBar(currentView.name, stackViews.Peek().name);
 		}
@@ -77,11 +78,14 @@ public class NavigationView : MonoBehaviour
 		
 		if ( prevBtnName.Equals("") )
 		{
-			buttonPrev.gameObject.SetActive(false);
-		}
+            //buttonPrev.gameObject.SetActive(true);
+            buttonPrev.onClick.AddListener(transitionManager.StartTransition);//홈으로 가기 활성화
+        }
 		else
 		{
-			buttonPrev.gameObject.SetActive(true);
+            buttonPrev.onClick.RemoveListener(transitionManager.StartTransition);//비활성화
+            
+            //buttonPrev.gameObject.SetActive(true);
 			textPrevName.text = prevBtnName;
 		}
 	}
