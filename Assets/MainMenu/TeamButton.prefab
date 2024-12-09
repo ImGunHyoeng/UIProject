@@ -221,7 +221,6 @@ GameObject:
   - component: {fileID: 6910357989010892250}
   - component: {fileID: 1217492745219825173}
   - component: {fileID: 4946985588358936988}
-  - component: {fileID: 7254288139124989405}
   - component: {fileID: 7553612810865414689}
   m_Layer: 5
   m_Name: TeamButton
@@ -302,18 +301,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   radius: 14
   image: {fileID: 1217492745219825173}
---- !u!114 &7254288139124989405
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 926335561772796349}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e6807a8bf10a614f991687869e501c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &7553612810865414689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -358,16 +345,16 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 7254288139124989405}
-        m_TargetAssemblyTypeName: MoveScene, Assembly-CSharp
-        m_MethodName: NextScene
-        m_Mode: 5
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: SceneTransitionFXProFREE.SceneSwitcher, Assembly-CSharp
+        m_MethodName: MoveToSceneB
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: TicketScene
+          m_StringArgument: MainMenu
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1233463626561900898

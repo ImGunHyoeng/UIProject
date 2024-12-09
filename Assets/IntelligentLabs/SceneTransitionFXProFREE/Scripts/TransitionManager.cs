@@ -54,7 +54,11 @@ namespace SceneTransitionFXProFREE
 
         public string fromScene;
         public string toScene;
+        public void SetScene(string scene)
+        {
+            toScene = scene;
 
+        }
         public enum FlipDirection { LeftFlip, RightFlip }
         public enum LeafFallDirection { TopLeft, TopRight, BottomLeft, BottomRight }
         public enum OmniDirection { OmniLeft, OmniRight }

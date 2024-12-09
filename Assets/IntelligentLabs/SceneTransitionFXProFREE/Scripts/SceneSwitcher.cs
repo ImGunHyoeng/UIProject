@@ -7,7 +7,7 @@ namespace SceneTransitionFXProFREE
     public class SceneSwitcher : MonoBehaviour
     {
         public TransitionManager transitionManager;  // Reference to Transition Manager
-        public string targetScene = "DemoSceneB_FREE";    // Target scene to transition to
+        public string targetScene;    // Target scene to transition to
 
 
         //private void Start()
@@ -17,7 +17,11 @@ namespace SceneTransitionFXProFREE
         //        MoveToSceneB();
         //    }
         //}
+        public void SetScene(string scene)
+        {
+            targetScene = scene; 
 
+        }
 
         public void MoveToSceneB()
         {
