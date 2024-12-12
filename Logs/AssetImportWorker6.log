@@ -1,0 +1,1363 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.53f1 (df4e529d20d3) revision 14634578'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'ko' Physical Memory: 32694 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.53f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/GUNHYEONG/Desktop/UIProject
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+57889
+Successfully changed project path to: C:/Users/GUNHYEONG/Desktop/UIProject
+C:/Users/GUNHYEONG/Desktop/UIProject
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [28652]  Target information:
+
+Player connection [28652]  * "[IP] 192.168.20.3 [Port] 0 [Flags] 2 [Guid] 773385857 [EditorId] 773385857 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-FD3M0B4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [28652]  * "[IP] 192.168.137.1 [Port] 0 [Flags] 2 [Guid] 773385857 [EditorId] 773385857 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-FD3M0B4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [28652] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [28652] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Refreshing native plugins compatible for Editor in 11.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.53f1 (df4e529d20d3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.53f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/GUNHYEONG/Desktop/UIProject/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6600 (ID=0x73ff)
+    Vendor:   ATI
+    VRAM:     8147 MB
+    Driver:   32.0.11027.1003
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.53f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.53f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.53f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56280
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.53f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.53f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.013902 seconds.
+- Loaded All Assemblies, in  0.320 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 313 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.591 seconds
+Domain Reload Profiling: 907ms
+	BeginReloadAssembly (88ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (135ms)
+		LoadAssemblies (86ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (132ms)
+			TypeCache.Refresh (131ms)
+				TypeCache.ScanAssembly (116ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (591ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (545ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (382ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (111ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.596 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.570 seconds
+Domain Reload Profiling: 1160ms
+	BeginReloadAssembly (126ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (387ms)
+		LoadAssemblies (317ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (141ms)
+			TypeCache.Refresh (122ms)
+				TypeCache.ScanAssembly (110ms)
+			ScanForSourceGeneratedMonoScriptInfo (13ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (570ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (458ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (87ms)
+			ProcessInitializeOnLoadAttributes (320ms)
+			ProcessInitializeOnLoadMethodAttributes (15ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 4.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3221 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (54.6 KB). Loaded Objects now: 3690.
+Memory consumption went from 130.0 MB to 130.0 MB.
+Total: 2.257700 ms (FindLiveObjects: 0.187500 ms CreateObjectMapping: 0.066500 ms MarkObjects: 1.929200 ms  DeleteObjects: 0.073700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 50899.459960 seconds.
+  path: Assets/NavigationView.cs
+  artifactKey: Guid(22d3a5345fa044447a052e355b1efdcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NavigationView.cs using Guid(22d3a5345fa044447a052e355b1efdcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c6c9df1d107533004fbcde4dd6166060') in 0.002083 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.466 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.111 seconds
+Domain Reload Profiling: 1571ms
+	BeginReloadAssembly (147ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (246ms)
+		LoadAssemblies (306ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1111ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (502ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (98ms)
+			ProcessInitializeOnLoadAttributes (341ms)
+			ProcessInitializeOnLoadMethodAttributes (21ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 4.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3198 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.5 KB). Loaded Objects now: 3693.
+Memory consumption went from 125.4 MB to 125.4 MB.
+Total: 2.433600 ms (FindLiveObjects: 0.217100 ms CreateObjectMapping: 0.079200 ms MarkObjects: 2.099900 ms  DeleteObjects: 0.036800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.516 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.131 seconds
+Domain Reload Profiling: 1640ms
+	BeginReloadAssembly (165ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (268ms)
+		LoadAssemblies (345ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (1132ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (510ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (101ms)
+			ProcessInitializeOnLoadAttributes (347ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 5.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3199 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.5 KB). Loaded Objects now: 3696.
+Memory consumption went from 125.7 MB to 125.7 MB.
+Total: 3.109500 ms (FindLiveObjects: 0.240900 ms CreateObjectMapping: 0.088100 ms MarkObjects: 2.738900 ms  DeleteObjects: 0.040600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.448 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.023 seconds
+Domain Reload Profiling: 1464ms
+	BeginReloadAssembly (142ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (235ms)
+		LoadAssemblies (299ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1023ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (467ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (87ms)
+			ProcessInitializeOnLoadAttributes (324ms)
+			ProcessInitializeOnLoadMethodAttributes (17ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 4.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3199 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.5 KB). Loaded Objects now: 3699.
+Memory consumption went from 125.7 MB to 125.7 MB.
+Total: 2.136400 ms (FindLiveObjects: 0.189000 ms CreateObjectMapping: 0.077100 ms MarkObjects: 1.839100 ms  DeleteObjects: 0.030600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.437 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.024 seconds
+Domain Reload Profiling: 1456ms
+	BeginReloadAssembly (141ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (223ms)
+		LoadAssemblies (289ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1025ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (456ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (88ms)
+			ProcessInitializeOnLoadAttributes (313ms)
+			ProcessInitializeOnLoadMethodAttributes (17ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 5.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3199 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.5 KB). Loaded Objects now: 3702.
+Memory consumption went from 125.7 MB to 125.7 MB.
+Total: 2.287600 ms (FindLiveObjects: 0.217800 ms CreateObjectMapping: 0.079900 ms MarkObjects: 1.957100 ms  DeleteObjects: 0.032100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.496 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.104 seconds
+Domain Reload Profiling: 1594ms
+	BeginReloadAssembly (141ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (277ms)
+		LoadAssemblies (339ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1104ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (531ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (94ms)
+			ProcessInitializeOnLoadAttributes (373ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 4.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3199 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.5 KB). Loaded Objects now: 3705.
+Memory consumption went from 125.7 MB to 125.7 MB.
+Total: 2.625700 ms (FindLiveObjects: 0.209000 ms CreateObjectMapping: 0.074700 ms MarkObjects: 2.294100 ms  DeleteObjects: 0.047000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.458 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.132 seconds
+Domain Reload Profiling: 1584ms
+	BeginReloadAssembly (136ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (250ms)
+		LoadAssemblies (310ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1132ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (502ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (94ms)
+			ProcessInitializeOnLoadAttributes (349ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 4.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3199 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.5 KB). Loaded Objects now: 3708.
+Memory consumption went from 125.7 MB to 125.7 MB.
+Total: 2.309400 ms (FindLiveObjects: 0.200300 ms CreateObjectMapping: 0.068200 ms MarkObjects: 2.007600 ms  DeleteObjects: 0.032600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1961.301435 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5ff21d543fce3d3f67138454f279adc3') in 0.053663 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 5.350994 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '07907e960385f8cdfcec05b27be8625a') in 0.012438 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.426528 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '986171623bc1584365b950ace8a0aa07') in 0.016108 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 4.213705 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3b104c68fc3ab8299ca2f97f8148e335') in 0.018301 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 3.002029 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '0a51a2177521878e3223a8a338d8681e') in 0.021633 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.238502 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3db70b123fc9e49023f737e08dfb4b52') in 0.022321 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.151208 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f17adf1055e20864db478dcdae070e8a') in 0.015139 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 3.663748 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9da01380f8b24f4431c3916aa9b09e25') in 0.014821 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 3.185239 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8a4e092833cb6831e4bed68b88ceaa43') in 0.015061 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 18.066890 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd773e4db12baf37df7bfac3869caf264') in 0.012847 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.458 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.041 seconds
+Domain Reload Profiling: 1493ms
+	BeginReloadAssembly (146ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (236ms)
+		LoadAssemblies (303ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1041ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (468ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (90ms)
+			ProcessInitializeOnLoadAttributes (324ms)
+			ProcessInitializeOnLoadMethodAttributes (17ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 5.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3198 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 15 unused Assets / (29.2 KB). Loaded Objects now: 3714.
+Memory consumption went from 125.6 MB to 125.6 MB.
+Total: 2.370700 ms (FindLiveObjects: 0.229400 ms CreateObjectMapping: 0.072600 ms MarkObjects: 2.027200 ms  DeleteObjects: 0.040800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 20.509803 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '97799479d1929f5cc9c39bf53a4e6e26') in 0.043537 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.743028 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '42cddc1bb7dba14aa671bf547e92659a') in 0.016254 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 57.181764 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c1a5ac2111a857140575eaa887ffa885') in 0.012206 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 7.477646 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6918103ab7b0a5105951a589f1d3e1f0') in 0.018576 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 15.465212 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '592be96b8d20bbcbba8f55113d54bef2') in 0.014071 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 2.414743 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'be047d8ada6f23ad6abdaa522811da7d') in 0.018915 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 2.612593 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8cd44575317b37c066d0bc2c0298d59a') in 0.013662 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.999972 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6f14b6977a985697cc54860faa0064e3') in 0.014325 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 18.365752 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c75678bff84ca82ef5de7e9a7c20737d') in 0.015865 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 6.433215 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e4185009e0300f27f65dff0e0cbad9e5') in 0.014164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 6.426316 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b0e8e13f60d6a4a5f290fc38b45f3952') in 0.014939 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 7.651713 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5c7969db28e29a452babe03a0e41f671') in 0.013210 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 8.256354 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'feb1c3b2a956758bc18e9b8fcda34a4a') in 0.012342 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 6.233437 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c93ce441e947bbbc1e06a942238b8c36') in 0.018331 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.869873 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8f6f19e8d3b18495ba5d1ab74af26327') in 0.020856 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.015021 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3777c6231e98c1f2e7618993bfcc4c99') in 0.019410 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 0.851152 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ae0ccdda9993df0d1a83b33977a2f69c') in 0.015596 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 0.590747 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '86f10c9c5f4fc843789fe0f42e6df918') in 0.015932 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.599160 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a3abd7212a5b1d954dc212e740707f97') in 0.013508 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 2.035075 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6f298b057c00f4a9dd400845fb891424') in 0.017384 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 3.661883 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6223767bf5f288bd954503a6e0a08522') in 0.015526 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.611735 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a3d671d6e9fdfabbee7344b23f52964c') in 0.015922 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 2.057815 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '154ed35a8a4d080ee03af831ff118d3c') in 0.017167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 0.815643 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7ea7cddd223a44f60f9ba8bd9537297d') in 0.015059 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 0.850659 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a86376e75410fe62ca2256cb22cf1df0') in 0.015385 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 0.627720 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3516bab636384871a0b612ee34bd507d') in 0.015287 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.233456 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3985f4fb5af5211ee57e7ed231cc4f2b') in 0.018311 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 2.372984 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '40b16ebcf9b2a74bf0d493e2c75ae77c') in 0.013137 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 3.031355 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f2950d2ead66ff5a45adfe695230b582') in 0.016516 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 10.170930 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f7901e82e3f4e4aa10f84a5ef2c0eb99') in 0.015677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 2.289899 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7ad0988e14ba730f79859af20c7cb90f') in 0.016766 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 2.192223 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '34a5b08086a4e9d7e8bcaef6ec54a875') in 0.013644 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.261958 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6189be7f5fa7e1fb7cb37b9d1acb54bd') in 0.020083 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 0.961048 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6b4b872c243e5e288773d903057384a9') in 0.015448 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.015975 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'dde37f6b2c0e2159c09a2a2439d5de59') in 0.016595 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.506301 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '2c86cb0d4087175f9f8c137817231975') in 0.015459 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 10.648938 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3226f8ddd29b546d15ebea5066867eb2') in 0.015174 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.847768 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e06759d0c3493f43049dce8b2957ed76') in 0.015841 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 3.569745 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'bcf9b2b1d16e093690fbe9e153831b43') in 0.015084 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 7.448414 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ade3c9219ddb37a76b05a516ce3839bc') in 0.014235 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 3.656967 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd047e9a3039bdf15c970ee928976bbac') in 0.015115 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.038001 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '72acf25856bbfc1aa7f004aa263efe81') in 0.016401 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 0.799382 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5bcc5bd1e1426f03ea612765b0012d99') in 0.017240 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.387833 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8f2fc331177d171a0bd7853d75caf468') in 0.018811 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.441331 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '0bf58d828b2eb726b50241c6de8c8b6d') in 0.021000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 1.549640 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ee913fa32078c31686eb594ddac50c4b') in 0.015483 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 2.021798 seconds.
+  path: Assets/RGScene/Canvas.prefab
+  artifactKey: Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RGScene/Canvas.prefab using Guid(d03db476a8fc0da419c9d0e9f2da8311) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '534b85159706fbe8d5937eb8b1b76e83') in 0.014518 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 870
+========================================================================
+Received Import Request.
+  Time since last request: 10.453306 seconds.
+  path: Assets/Scenes/Community.unity
+  artifactKey: Guid(dc657e042fe9cb0409fb5af61f7ce4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Community.unity using Guid(dc657e042fe9cb0409fb5af61f7ce4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '4c325c3225af51d0b81fd91375c9fb72') in 0.000708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.462 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.083 seconds
+Domain Reload Profiling: 1540ms
+	BeginReloadAssembly (161ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (229ms)
+		LoadAssemblies (304ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1083ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (548ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (96ms)
+			ProcessInitializeOnLoadAttributes (386ms)
+			ProcessInitializeOnLoadMethodAttributes (21ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 6.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3198 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 15 unused Assets / (29.2 KB). Loaded Objects now: 3717.
+Memory consumption went from 125.6 MB to 125.6 MB.
+Total: 3.877500 ms (FindLiveObjects: 0.365200 ms CreateObjectMapping: 0.286800 ms MarkObjects: 3.142600 ms  DeleteObjects: 0.081600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.490 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.053 seconds
+Domain Reload Profiling: 1537ms
+	BeginReloadAssembly (140ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (273ms)
+		LoadAssemblies (331ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (16ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1053ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (505ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (93ms)
+			ProcessInitializeOnLoadAttributes (354ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 5.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3199 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.5 KB). Loaded Objects now: 3720.
+Memory consumption went from 125.9 MB to 125.8 MB.
+Total: 2.520000 ms (FindLiveObjects: 0.218300 ms CreateObjectMapping: 0.079600 ms MarkObjects: 2.187900 ms  DeleteObjects: 0.033400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 190.702551 seconds.
+  path: Assets/Scenes/Test.unity
+  artifactKey: Guid(91ff4f3aab33f9747a26f49e4e5452b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test.unity using Guid(91ff4f3aab33f9747a26f49e4e5452b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'cf6a48a7c5b94d35967ed9b027cbfd36') in 0.001357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.425 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.023 seconds
+Domain Reload Profiling: 1443ms
+	BeginReloadAssembly (134ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (223ms)
+		LoadAssemblies (287ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (1024ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (474ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (92ms)
+			ProcessInitializeOnLoadAttributes (321ms)
+			ProcessInitializeOnLoadMethodAttributes (21ms)
+			AfterProcessingInitializeOnLoad (15ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 4.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3198 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.5 KB). Loaded Objects now: 3723.
+Memory consumption went from 125.6 MB to 125.6 MB.
+Total: 2.215200 ms (FindLiveObjects: 0.209500 ms CreateObjectMapping: 0.069000 ms MarkObjects: 1.904100 ms  DeleteObjects: 0.031900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 36.104894 seconds.
+  path: Assets/Scenes/Community.unity
+  artifactKey: Guid(dc657e042fe9cb0409fb5af61f7ce4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Community.unity using Guid(dc657e042fe9cb0409fb5af61f7ce4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'eb11510959ed9e82cdf4d4072d1ca099') in 0.001730 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
