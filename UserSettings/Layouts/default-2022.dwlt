@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1357.3334
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 8}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -535,23 +535,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 06650000
-      m_LastClickedID: 25862
-      m_ExpandedIDs: 2cfbffff785b0000ea5e000082610000a6680000826900006a6a0000d26f0000
+      m_SelectedIDs: b25c0000
+      m_LastClickedID: 23730
+      m_ExpandedIDs: 2cfbffff785b00009e5e0000ea5e000082610000066500002e650000826900006a6a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: wndKeyboard
-        m_OriginalName: wndKeyboard
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 25862
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 3}
       m_SearchString: 
