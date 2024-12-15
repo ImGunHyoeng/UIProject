@@ -365,6 +365,7 @@
 "Assets/IntelligentLabs/SceneTransitionFXProFREE/Scripts/PlayEffect.cs"
 "Assets/IntelligentLabs/SceneTransitionFXProFREE/Scripts/SceneSwitcher.cs"
 "Assets/IntelligentLabs/SceneTransitionFXProFREE/Scripts/TransitionManager.cs"
+"Assets/KeyBoardFunction.cs"
 "Assets/Morm/OnScreenKeyboard/Scripts/Hangul/ChosungType.cs"
 "Assets/Morm/OnScreenKeyboard/Scripts/Hangul/HangulHelper.cs"
 "Assets/Morm/OnScreenKeyboard/Scripts/Hangul/HangulState.cs"

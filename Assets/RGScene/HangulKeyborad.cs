@@ -12,6 +12,9 @@ public class HangulKeyborad : MonoBehaviour
     ////VirtualKeyboard
     public GameObject wndKeyBoard;
 
+    [SerializeField]
+    KeyBoardFunction keyBoardFunctionObject;
+
     //public GameObject[] NumberKey;
     public GameObject[] LangKey;
     public GameObject[] LangKey2; //숫자패드쪽
@@ -60,11 +63,23 @@ public class HangulKeyborad : MonoBehaviour
 
     char chKorInput = ' '; //받은 글자
                            //kor UniCode = (start * 21 + mid )*28 + End + 0xAC00
-
+    private Coroutine keyboardCoroutine;
     //InputKey
     public void OnClicked(Text text)
     {
+        if (keyboardCoroutine != null)
+        {
+            StopCoroutine(keyboardCoroutine);
+        }
+        keyBoardFunctionObject.KeyBoardOnOffProperty = true;
         OnClickedOnKor(korField, text);
+        keyboardCoroutine=StartCoroutine(KeyBoardPropertyOff());
+    }
+
+    IEnumerator KeyBoardPropertyOff()
+    {
+        yield return new WaitForSeconds(2.0f);
+        keyBoardFunctionObject.KeyBoardOnOffProperty = false;
     }
 
     void OnClickedOnKor(InputField inputfiled, Text text)
