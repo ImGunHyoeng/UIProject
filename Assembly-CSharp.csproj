@@ -108,6 +108,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\CheckActive.cs" />
+    <Compile Include="Assets\TextSet.cs" />
     <Compile Include="Assets\Morm\OnScreenKeyboard\Scripts\Hangul\JungsungType.cs" />
     <Compile Include="Assets\Morm\OnScreenKeyboard\Scripts\OriginalScripts\OnScreenKeyboard.cs" />
     <Compile Include="Assets\IntelligentLabs\SceneTransitionFXProFREE\Scripts\SceneSwitcher.cs" />
