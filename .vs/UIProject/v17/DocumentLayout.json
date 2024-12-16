@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\textset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\textset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\navigationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\navigationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|c:\\users\\gunhyeong\\desktop\\uiproject\\assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|c:\\users\\gunhyeong\\desktop\\uiproject\\assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\intelligentlabs\\scenetransitionfxprofree\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|c:\\users\\gunhyeong\\desktop\\uiproject\\assets\\navigationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\navigationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|c:\\users\\gunhyeong\\desktop\\uiproject\\assets\\textset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\textset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|c:\\users\\gunhyeong\\desktop\\uiproject\\assets\\rgscene\\hangulkeyborad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\assets\\rgscene\\hangulkeyborad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0944CBFB-89BA-07E4-78F4-AA48812B1F82}|Assembly-CSharp.csproj|solutionrelative:assets\\rgscene\\hangulkeyborad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -90,11 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TransitionManager.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
               "RelativeDocumentMoniker": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\TransitionManager.cs",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SceneSwitcher.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\SceneSwitcher.cs",
               "RelativeDocumentMoniker": "Assets\\IntelligentLabs\\SceneTransitionFXProFREE\\Scripts\\SceneSwitcher.cs",
@@ -120,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "NavigationView.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\NavigationView.cs",
               "RelativeDocumentMoniker": "Assets\\NavigationView.cs",
@@ -133,13 +133,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TextSet.cs",
               "DocumentMoniker": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\TextSet.cs",
               "RelativeDocumentMoniker": "Assets\\TextSet.cs",
               "ToolTip": "C:\\Users\\GUNHYEONG\\Desktop\\UIProject\\Assets\\TextSet.cs",
               "RelativeToolTip": "Assets\\TextSet.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswA4AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T05:09:14.227Z",
               "EditorCaption": ""
@@ -154,8 +154,7 @@
               "RelativeToolTip": "Assets\\RGScene\\HangulKeyborad.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T15:21:30.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T15:21:30.099Z"
             },
             {
               "$type": "Document",
@@ -167,8 +166,7 @@
               "RelativeToolTip": "Assets\\KeyBoardFunction.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAD4vyQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T14:54:13.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T14:54:13.757Z"
             },
             {
               "$type": "Document",
