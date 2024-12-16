@@ -1,0 +1,672 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.53f1 (df4e529d20d3) revision 14634578'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'ko' Physical Memory: 32694 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.53f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/GUNHYEONG/Desktop/UIProject
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+59027
+Successfully changed project path to: C:/Users/GUNHYEONG/Desktop/UIProject
+C:/Users/GUNHYEONG/Desktop/UIProject
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [39040]  Target information:
+
+Player connection [39040]  * "[IP] 192.168.20.3 [Port] 0 [Flags] 2 [Guid] 2281608354 [EditorId] 2281608354 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-FD3M0B4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [39040]  * "[IP] 192.168.137.1 [Port] 0 [Flags] 2 [Guid] 2281608354 [EditorId] 2281608354 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-FD3M0B4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [39040] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [39040] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Refreshing native plugins compatible for Editor in 16.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.53f1 (df4e529d20d3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.53f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/GUNHYEONG/Desktop/UIProject/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6600 (ID=0x73ff)
+    Vendor:   ATI
+    VRAM:     8147 MB
+    Driver:   32.0.11027.1003
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.53f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.53f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.53f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.53f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.53f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.016200 seconds.
+- Loaded All Assemblies, in  0.387 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 409 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.700 seconds
+Domain Reload Profiling: 1083ms
+	BeginReloadAssembly (121ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (73ms)
+	LoadAllAssembliesAndSetupDomain (143ms)
+		LoadAssemblies (117ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (140ms)
+			TypeCache.Refresh (138ms)
+				TypeCache.ScanAssembly (126ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (701ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (660ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (488ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (121ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.636 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.640 seconds
+Domain Reload Profiling: 1270ms
+	BeginReloadAssembly (151ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (401ms)
+		LoadAssemblies (337ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (152ms)
+			TypeCache.Refresh (132ms)
+				TypeCache.ScanAssembly (119ms)
+			ScanForSourceGeneratedMonoScriptInfo (15ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (641ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (529ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (94ms)
+			ProcessInitializeOnLoadAttributes (347ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 4.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4313 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (343.5 KB). Loaded Objects now: 4780.
+Memory consumption went from 156.5 MB to 156.2 MB.
+Total: 3.644800 ms (FindLiveObjects: 0.273600 ms CreateObjectMapping: 0.221900 ms MarkObjects: 2.996000 ms  DeleteObjects: 0.152200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 26207.162690 seconds.
+  path: Assets/polyperfect/2D SDF Nodes
+  artifactKey: Guid(2187ace0d9c049e4c828c1616905e783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes using Guid(2187ace0d9c049e4c828c1616905e783) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '17abfd5aa23c128cc4820fd3feb78f6c') in 0.002081 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.014277 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples
+  artifactKey: Guid(a9cd753fbbb14e74a9dd496a9ec63c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples using Guid(a9cd753fbbb14e74a9dd496a9ec63c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b9874e9e816969b699f1eb55b644b774') in 0.000451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.849192 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/Prefabs
+  artifactKey: Guid(7864d8b150934ea4fa45967eafd79f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/Prefabs using Guid(7864d8b150934ea4fa45967eafd79f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f056bcb61a8013dbf65fe04606ce1a7b') in 0.000402 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.049113 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/Prefabs/Dropdown Shape (Output).prefab
+  artifactKey: Guid(0f77cafe4b99e70499676530221e164e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/Prefabs/Dropdown Shape (Output).prefab using Guid(0f77cafe4b99e70499676530221e164e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f09005d78a89753a5d12c7a8f0221277') in 0.053424 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/Prefabs/SDF Canvas Test (Shapes).prefab
+  artifactKey: Guid(87f3662e6ec9dda47a7f58baffc1dbe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/Prefabs/SDF Canvas Test (Shapes).prefab using Guid(87f3662e6ec9dda47a7f58baffc1dbe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e7c17a47648b683a12e83a51dba204b1') in 0.005374 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 4.130494 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs
+  artifactKey: Guid(7495e7cdf78cab949b3b422bf1596c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs using Guid(7495e7cdf78cab949b3b422bf1596c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c877e957d04ef549c66c2f6181920610') in 0.000525 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.034280 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/2D_SDF_CustomFunctions.hlsl
+  artifactKey: Guid(96697443593a80f4191ad8696a059d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/2D_SDF_CustomFunctions.hlsl using Guid(96697443593a80f4191ad8696a059d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '44543236b8d569e043f3140aae1bfddd') in 0.001201 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.843805 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/All Nodes.shadergraph
+  artifactKey: Guid(89db82ca5e3f23c45bd4e8f7cacafc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/All Nodes.shadergraph using Guid(89db82ca5e3f23c45bd4e8f7cacafc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b99f9cbb815c2ed8e03994e2210a130b') in 0.327115 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 127.242159 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Utility
+  artifactKey: Guid(1c570a7d50a644540a84ef6ef82c9d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Utility using Guid(1c570a7d50a644540a84ef6ef82c9d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '2f7ba2f2aa31a84254c6350b5674b298') in 0.000656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.597412 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Utility/DerivativeAspectRatio.shadersubgraph
+  artifactKey: Guid(d10ab5cb7f21f16488053bc0e761be35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Utility/DerivativeAspectRatio.shadersubgraph using Guid(d10ab5cb7f21f16488053bc0e761be35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9bc91082b01b286c414f439ba4aa9ba1') in 0.003292 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.530990 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/03_Logo/SDF_Polyperfect_Logo.mat
+  artifactKey: Guid(770cfa5bd1f49654783452b41066f24c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/03_Logo/SDF_Polyperfect_Logo.mat using Guid(770cfa5bd1f49654783452b41066f24c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'eba39b944c7e7c5ae55e0f59ac5d7a8e') in 0.376936 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.346596 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/05_Color picker/Example Color Picker.unity
+  artifactKey: Guid(f996ca77004b14b4696cfe52a839c2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/05_Color picker/Example Color Picker.unity using Guid(f996ca77004b14b4696cfe52a839c2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '60ae105247ccf493f62cb1aaa3dc4900') in 0.000508 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.479 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.274 seconds
+Domain Reload Profiling: 1746ms
+	BeginReloadAssembly (155ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (42ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (249ms)
+		LoadAssemblies (313ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (14ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1275ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (490ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (100ms)
+			ProcessInitializeOnLoadAttributes (309ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 5.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (318.6 KB). Loaded Objects now: 4826.
+Memory consumption went from 155.6 MB to 155.2 MB.
+Total: 2.856300 ms (FindLiveObjects: 0.500700 ms CreateObjectMapping: 0.166800 ms MarkObjects: 2.095100 ms  DeleteObjects: 0.092900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 22.637320 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/05_Color picker/Shaders
+  artifactKey: Guid(d63a2a1e94d967f4c893e7fe224e6e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/05_Color picker/Shaders using Guid(d63a2a1e94d967f4c893e7fe224e6e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'dd5bb8347f9d3c16ee9e583d3154519b') in 0.001619 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.993720 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/05_Color picker/Prefabs/Example_Color Picker.prefab
+  artifactKey: Guid(030ca97c9f1f3374992e326c3b9ca144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/05_Color picker/Prefabs/Example_Color Picker.prefab using Guid(030ca97c9f1f3374992e326c3b9ca144) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd42e605ee4f7f6aa706f40dd67dc0e28') in 0.025645 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 3.439033 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/04_Radar/SDF_Radar.unity
+  artifactKey: Guid(655f37dfdda2db04e9806a77d7312949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/04_Radar/SDF_Radar.unity using Guid(655f37dfdda2db04e9806a77d7312949) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '2de2bb6e925fdaaa01f9978ff8299ea4') in 0.000536 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.723848 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/04_Radar/SDF_Radar.shadergraph
+  artifactKey: Guid(450b4d2fb605519428084dbf4a48a564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/04_Radar/SDF_Radar.shadergraph using Guid(450b4d2fb605519428084dbf4a48a564) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '916d659bb661fa53617ca4f4c7021dfb') in 0.333908 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 34.316350 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/03_Logo/SDF Polyperfect Logo.unity
+  artifactKey: Guid(796546baf21c2514e99f03e5c04563ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/03_Logo/SDF Polyperfect Logo.unity using Guid(796546baf21c2514e99f03e5c04563ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f0acc9e998e76066dd0e93a0b97f20a4') in 0.000477 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.346129 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/02_MousePosition/Mouse Position.mat
+  artifactKey: Guid(b8e6f2fbc8bb9e44ea89826828883ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/02_MousePosition/Mouse Position.mat using Guid(b8e6f2fbc8bb9e44ea89826828883ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e941a8ddb37966faa1c14274d24bc7ac') in 0.314136 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.726833 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/02_MousePosition/_02_Mouse Position.unity
+  artifactKey: Guid(7904fd3ff7c3135499c9b8e9c1da7215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/02_MousePosition/_02_Mouse Position.unity using Guid(7904fd3ff7c3135499c9b8e9c1da7215) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'da7c5f9f481d857dd37805efdb085833') in 0.000720 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.514 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.267 seconds
+Domain Reload Profiling: 1774ms
+	BeginReloadAssembly (157ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (276ms)
+		LoadAssemblies (350ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1267ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (497ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (112ms)
+			ProcessInitializeOnLoadAttributes (303ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 6.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 16 unused Assets / (314.7 KB). Loaded Objects now: 4831.
+Memory consumption went from 156.0 MB to 155.7 MB.
+Total: 4.627900 ms (FindLiveObjects: 0.725700 ms CreateObjectMapping: 0.673400 ms MarkObjects: 3.130300 ms  DeleteObjects: 0.096700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 18.384533 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/01_Introduction/01_Introduction.mat
+  artifactKey: Guid(1d480a9ce22d15e49a6f95219d6b4f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/01_Introduction/01_Introduction.mat using Guid(1d480a9ce22d15e49a6f95219d6b4f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd39f6eca9ea1a3bf19ef9f05397ffbd7') in 0.345668 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.653277 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/02_MousePosition/Mouse Position.shadergraph
+  artifactKey: Guid(bbcf22c9a5408ab43a5d1e5a9ca5cdad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/02_MousePosition/Mouse Position.shadergraph using Guid(bbcf22c9a5408ab43a5d1e5a9ca5cdad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '50d02cf03d9c8114369c66c09bcf2c3e') in 0.013274 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.739397 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Examples/02_MousePosition/MouseShaderBinder.cs
+  artifactKey: Guid(7ce61ad68138659439af2aa4b104ed6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Examples/02_MousePosition/MouseShaderBinder.cs using Guid(7ce61ad68138659439af2aa4b104ed6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e5adc0294e2555dcdd37e82847e3213a') in 0.000880 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 56.568898 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Modifiers/SDF_Outline-Annular.shadersubgraph
+  artifactKey: Guid(539b2f2a3025f8d468d3683e9e436cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Modifiers/SDF_Outline-Annular.shadersubgraph using Guid(539b2f2a3025f8d468d3683e9e436cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd5abedbc7c671e2c21f2f42e03e2eb78') in 0.003303 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.515641 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Sampling/SDF_DistanceLines.shadersubgraph
+  artifactKey: Guid(743e441a793bc254185ba4cf71a520a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Sampling/SDF_DistanceLines.shadersubgraph using Guid(743e441a793bc254185ba4cf71a520a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '1459a27b1b0001b0fd9d938ed90dfd98') in 0.001107 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 13.652466 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Combinations/SDF_Add-Union.shadersubgraph
+  artifactKey: Guid(2e7352c555f39ef49a2298f79b1abcae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Combinations/SDF_Add-Union.shadersubgraph using Guid(2e7352c555f39ef49a2298f79b1abcae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c0bb084fc525c54976b48766f9108e58') in 0.001334 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.028403 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Combinations/SDF_Smooth-Add-Union.shadersubgraph
+  artifactKey: Guid(86bf7f83d56ae514fb8db6d897e26cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Combinations/SDF_Smooth-Add-Union.shadersubgraph using Guid(86bf7f83d56ae514fb8db6d897e26cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '64f361052d5d76af9ae874444a7cd45c') in 0.001516 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Combinations/SDF_SmoothSubtraction.shadersubgraph
+  artifactKey: Guid(d22f0ce0a0606c34eab71754ae792004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Combinations/SDF_SmoothSubtraction.shadersubgraph using Guid(d22f0ce0a0606c34eab71754ae792004) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f395b1ab1ce6a79ab603a01d7687c918') in 0.001420 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.017125 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Arc.shadersubgraph
+  artifactKey: Guid(c86bc4d8895d301479543f6af51b4690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Arc.shadersubgraph using Guid(c86bc4d8895d301479543f6af51b4690) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6ff64668ac92e738be19c3a74cf93316') in 0.001350 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.026738 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Egg.shadersubgraph
+  artifactKey: Guid(ed275177f3fcbc74e903b3490fcdbf95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Egg.shadersubgraph using Guid(ed275177f3fcbc74e903b3490fcdbf95) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'de19a39353b087369a0a21317bb3704b') in 0.001638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Circle.shadersubgraph
+  artifactKey: Guid(39f079cedd1ff5449a1eefd0854506b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Circle.shadersubgraph using Guid(39f079cedd1ff5449a1eefd0854506b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '054a03523233dea32a33aa824e25c81f') in 0.001241 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Parallelogram.shadersubgraph
+  artifactKey: Guid(c45e6393e938ae14c8fb8c4de181f5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Parallelogram.shadersubgraph using Guid(c45e6393e938ae14c8fb8c4de181f5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd71ecb5e09882cbad112521fa53cedb7') in 0.001775 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Trapezoid.shadersubgraph
+  artifactKey: Guid(4d5a4ed8dbf67a843b3df4e4710e7013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Trapezoid.shadersubgraph using Guid(4d5a4ed8dbf67a843b3df4e4710e7013) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'dac8bd884dbd96f3d06efb990a8c01d2') in 0.001172 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/RoundedCross.shadersubgraph
+  artifactKey: Guid(aa684689080b4e84baf489ac2a241b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/RoundedCross.shadersubgraph using Guid(aa684689080b4e84baf489ac2a241b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '34f40aa4601fb82190661e5ed936aa58') in 0.001454 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Box.shadersubgraph
+  artifactKey: Guid(d4dec056d32517544a7e07ade5c46361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Box.shadersubgraph using Guid(d4dec056d32517544a7e07ade5c46361) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '4a55e3b38b9b554ba436d9728901eb3d') in 0.001384 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Polygon_10.shadersubgraph
+  artifactKey: Guid(189a207d91fc21b46a83b681c9eb3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Polygon_10.shadersubgraph using Guid(189a207d91fc21b46a83b681c9eb3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '62c31bce392db98fc321d7a80c8754b6') in 0.001822 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Parabola.shadersubgraph
+  artifactKey: Guid(deb65ca9d39cba54d9ac423a2ed9fe3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Parabola.shadersubgraph using Guid(deb65ca9d39cba54d9ac423a2ed9fe3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ea8aede68bb59885d5432955bb95f6ee') in 0.001396 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Star5.shadersubgraph
+  artifactKey: Guid(eaf8276376e5556459fa388a8f8cc57d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Star5.shadersubgraph using Guid(eaf8276376e5556459fa388a8f8cc57d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7cb66f26a2558e885f2bf6904f480bc8') in 0.001584 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Segment.shadersubgraph
+  artifactKey: Guid(df7784554459a424d860d40b83678b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Segment.shadersubgraph using Guid(df7784554459a424d860d40b83678b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3d2f6c8e61d1408a0d4609f54c804a73') in 0.001630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Octogon.shadersubgraph
+  artifactKey: Guid(15b2b4b9e3ba0d946916b0a4395b5805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/2D SDF Nodes/Sub Graphs/Shapes/Octogon.shadersubgraph using Guid(15b2b4b9e3ba0d946916b0a4395b5805) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6290056e6355ed24ed6563f076514a7a') in 0.001482 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: 스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
