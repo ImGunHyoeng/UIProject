@@ -78,7 +78,7 @@ public class NavigationView : MonoBehaviour
 		
 		if ( prevBtnName.Equals("") )
 		{
-            //buttonPrev.gameObject.SetActive(true);
+            //buttonPrev.gameObject.SetActive(false);
             buttonPrev.onClick.AddListener(transitionManager.StartTransition);//홈으로 가기 활성화
         }
 		else
